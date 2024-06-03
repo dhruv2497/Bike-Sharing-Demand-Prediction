@@ -27,8 +27,9 @@ The dataset contains features like:
 13. Functional Day: Whether a functional day or not
 
 Target Variable :
-Rented_Bike_Count: Number of bikes rented
-The main objective is to build a predictive model, which could help in predicting the number of bikes to be rented.
+* Rented_Bike_Count: Number of bikes rented at each hour
+
+* **The main objective is to build a predictive model, which could help in predicting the number of bikes to be rented.**
 
 **Prerequisites**
 1. Good understanding of ML algorithms
